@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/ShMq72J.png" alt="MCsniperGO"></img>
 
   
-  By Kqzz
+  By snowyjs (k1zz)
 </h3>
 
 <p align="center">
