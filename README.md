@@ -57,7 +57,7 @@ EMAIL:PASSWORD
 BEARER
 ```
 
-### Example accounts file
+### Example accounts files
 
 ```txt
 kqzz@gmail.com:SecurePassword3
